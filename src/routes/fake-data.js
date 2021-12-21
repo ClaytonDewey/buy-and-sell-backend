@@ -1,4 +1,3 @@
-
 export const fakeListings = [{
     id: '123',
     name: 'Old Boat',
